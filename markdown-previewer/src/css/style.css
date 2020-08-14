@@ -1,0 +1,25 @@
+body {
+  background-color: #FDE74C;
+  font-family: 'Roboto', sans-serif;
+}
+#root {
+  display: flex;
+  justify-content: center;
+}
+#editor {
+  width: 100%;
+  height: 450px;
+}
+.mainHeading {
+  font-family: 'Noto Sans JP', sans-serif;
+  background-color: #5BC0EB;
+  color: #404E4D;
+  text-align: center;
+}
+#preview {
+  color: #404E4D;
+  background-color: white;
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid black;
+}

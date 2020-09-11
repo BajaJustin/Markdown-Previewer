@@ -1,2 +1,2 @@
 # Markdown-Previewer
-FreeCodeCamp Markdown Previewer
+Made with React
